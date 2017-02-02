@@ -1,0 +1,19 @@
+{
+   "name": "Root","size": 35938,
+   "children": [
+    {
+     "name": "child1","size": 35938,
+     "children": [
+      {"name": "type", "size": 35938},
+      {"name": "label", "size": 35812}
+     ]
+	 },
+		{
+     "name": "child2","size": 35938,
+     "children": [
+      {"name": "type", "size": 35938},
+      {"name": "label", "size": 36812}
+     ]
+    }
+   ]
+  }
